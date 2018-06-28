@@ -1,2 +1,2 @@
 # hello-world
-New to Github
+Hi everyone, I am Rahul Kuntoji. I am new to GitHub.
